@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekm-nib
 - 👀 I’m interested in network automation
 - 🌱 I’m currently learning Python and AWS
-- 💞️ I’m looking to collaborate on network automation
+
 
 
 <!---
